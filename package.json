@@ -1,0 +1,27 @@
+{
+  "name": "UserList",
+  "version": "1.0.0",
+  "description": "A simple user list that demonstrates CRUD capabilities",
+  "main": "p1.html",
+  "dependencies": {
+    "backbone": "^1.1.2",
+    "backbone.localstorage": "^1.1.13",
+    "bootstrap": "^3.2.0",
+    "jquery": "^2.1.1",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajhurliman/UserList.git"
+  },
+  "author": "James Hurliman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajhurliman/UserList/issues"
+  },
+  "homepage": "https://github.com/ajhurliman/UserList"
+}
